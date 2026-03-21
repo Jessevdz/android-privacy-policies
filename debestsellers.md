@@ -50,12 +50,12 @@ We have no data to share, sell, rent, or trade. Consequently, no information is 
 ---
 
 ### 5. Data Deletion Instructions
-Under Facebook's platform rules, developers must provide users with a way to request the deletion of their data. Because **[Your App Name]** does not save any of your personal data, there is no data on our servers to delete. 
+Under Facebook's platform rules, developers must provide users with a way to request the deletion of their data. Because debestsellers.be does not save any of your personal data, there is no data on our servers to delete. 
 
 However, if you are the Page administrator and wish to disconnect the App and revoke its posting permissions, you can do so at any time directly through Facebook:
 1. Go to your Facebook Settings & Privacy.
 2. Navigate to **Settings** > **Security and Login** > **Business Integrations** (or "Apps and Websites").
-3. Find **[Your App Name]** in the list.
+3. Find debestsellers.be in the list.
 4. Click **Remove**.
 
 Once removed, the App will instantly lose the ability to publish to your Page. 
